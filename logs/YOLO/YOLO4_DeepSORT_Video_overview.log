@@ -1,0 +1,44 @@
+2022-04-01 10:27:53 [    INFO] 2560x1920 stream @ 20 FPS
+2022-04-01 10:27:53 [    INFO] Loading detector model...
+2022-04-01 10:28:01 [    INFO] Loading feature extractor models...
+2022-04-01 10:28:01 [    INFO] Starting video capture...
+2022-04-01 12:22:39 [    INFO] 2560x1920 stream @ 20 FPS
+2022-04-01 12:22:39 [    INFO] Loading detector model...
+2022-04-01 12:22:47 [    INFO] Loading feature extractor models...
+2022-04-01 12:22:47 [    INFO] Starting video capture...
+2022-04-01 12:22:54 [    INFO] Found:        person       1 at (2318, 1290)
+2022-04-01 12:23:05 [    INFO] Out:          person       1 at (2560, 1145)
+2022-04-01 12:23:49 [ WARNING] Camera motion estimation failed
+2022-04-01 12:24:15 [    INFO] 2560x1920 stream @ 20 FPS
+2022-04-01 12:24:15 [    INFO] Loading detector model...
+2022-04-01 12:24:23 [    INFO] Loading feature extractor models...
+2022-04-01 12:24:23 [    INFO] Starting video capture...
+2022-04-01 12:24:27 [    INFO] Found:        person       1 at (2318, 1290)
+2022-04-01 12:24:27 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_27_Video118_crop_track_1.png,Video,118,1,2059.000000,704.000000,472.000000,1170.000000
+2022-04-01 12:24:28 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_28_Video141_crop_track_1.png,Video,141,1,1590.000000,590.000000,506.000000,1353.000000
+2022-04-01 12:24:29 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_29_Video161_crop_track_1.png,Video,161,1,1470.000000,549.000000,528.000000,1395.000000
+2022-04-01 12:24:30 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_30_Video181_crop_track_1.png,Video,181,1,1518.000000,538.000000,496.000000,1411.000000
+2022-04-01 12:24:30 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_30_Video201_crop_track_1.png,Video,201,1,1521.000000,560.000000,502.000000,1349.000000
+2022-04-01 12:24:31 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_31_Video221_crop_track_1.png,Video,221,1,1497.000000,556.000000,491.000000,1375.000000
+2022-04-01 12:24:32 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_32_Video241_crop_track_1.png,Video,241,1,1463.000000,567.000000,514.000000,1372.000000
+2022-04-01 12:24:33 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_32_Video242_crop_track_1.png,Video,242,1,1462.000000,567.000000,515.000000,1372.000000
+2022-04-01 12:24:34 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_33_Video262_crop_track_1.png,Video,262,1,1382.000000,592.000000,546.000000,1346.000000
+2022-04-01 12:24:35 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_34_Video282_crop_track_1.png,Video,282,1,1441.000000,627.000000,492.000000,1297.000000
+2022-04-01 12:24:36 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_35_Video302_crop_track_1.png,Video,302,1,1443.000000,607.000000,481.000000,1312.000000
+2022-04-01 12:24:36 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_36_Video322_crop_track_1.png,Video,322,1,1427.000000,622.000000,482.000000,1304.000000
+2022-04-01 12:24:37 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_37_Video342_crop_track_1.png,Video,342,1,1570.000000,608.000000,613.000000,1319.000000
+2022-04-01 12:24:38 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_38_Video365_crop_track_1.png,Video,365,1,1979.000000,622.000000,452.000000,1241.000000
+2022-04-01 12:24:39 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_1/2022April01_12_24_38_Video366_crop_track_1.png,Video,366,1,1992.000000,621.000000,446.000000,1238.000000
+2022-04-01 12:24:40 [    INFO] Out:          person       1 at (2560, 1145)
+2022-04-01 12:25:23 [ WARNING] Camera motion estimation failed
+2022-04-01 12:25:32 [    INFO] Found:        person       2 at (1959, 1238)
+2022-04-01 12:25:32 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_2/2022April01_12_25_32_Video1948_crop_track_2.png,Video,1948,2,1661.000000,574.000000,504.000000,1334.000000
+2022-04-01 12:25:33 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_2/2022April01_12_25_32_Video1968_crop_track_2.png,Video,1968,2,1592.000000,544.000000,449.000000,1388.000000
+2022-04-01 12:25:33 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_2/2022April01_12_25_33_Video1988_crop_track_2.png,Video,1988,2,1448.000000,589.000000,522.000000,1351.000000
+2022-04-01 12:25:34 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_2/2022April01_12_25_34_Video2008_crop_track_2.png,Video,2008,2,1590.000000,591.000000,528.000000,1359.000000
+2022-04-01 12:25:35 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_2/2022April01_12_25_35_Video2028_crop_track_2.png,Video,2028,2,1478.000000,598.000000,535.000000,1329.000000
+2022-04-01 12:25:36 [    INFO] Snap:         FaceRecognition/FaceNet_input/Video/in_of_interest_area/trackID_2/2022April01_12_25_36_Video2048_crop_track_2.png,Video,2048,2,1659.000000,640.000000,489.000000,1281.000000
+2022-04-01 12:25:36 [    INFO] Out:          person       2 at (3335, 1525)
+2022-04-01 12:26:18 [ WARNING] Camera motion estimation failed
+2022-04-01 12:26:18 [ WARNING] Camera motion estimation failed
+2022-04-01 12:26:26 [    INFO] Average FPS: 29
